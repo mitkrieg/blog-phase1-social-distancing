@@ -13,9 +13,11 @@ For further development of this project I would look into possible trends emergi
 ## Repository Structure
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
+├── README.md           <- The top-level README for reviewers of this project
 ├── index.ipynb         <- Narrative documentation of project &  processes in Jupyter notebook
-├── data_cleaning.py          <- .py script to clean data pulled from the csv files from NYC Open Data Portal and merging of dataframes for analysis
-├── Data                          <- zcsv files of datasets used downloaded from NYC Open Data portal
-└── images                              <- png verstions of visualizations
+├── data_cleaning.py    <- .py script to clean data pulled from the csv files from NYC Open Data Portal and merging of dataframes for analysis
+├── Data                <- directory of csv files of datasets used downloaded from NYC Open Data portal
+├── Borough Boundaries  <- Shapefiles for NYC's 5 Boroughs
+├── .gitattributes      <- git lfs file to help store large notebook 
+└── images              <- directory of png verstions of visualizations
 ```
