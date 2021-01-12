@@ -4,11 +4,11 @@
 
 ## Overview
 
-Using data from NYC Open Data Portal, mapped rates of Parks Patron's encounters with Social Distancing Ambassadors. Using Geopandas, folium and seaborn to generate visualizations, a blog about my findings can be found on medium.
+Using data from NYC Open Data Portal, mapped rates of Parks Patron's encounters with Social Distancing Ambassadors during the COVID-19 pandemic. Using Geopandas, folium and seaborn to generate visualizations, I then wrote a blog about my findings which can be [here found on medium](https://medium.com/swlh/do-we-listen-an-exploration-of-social-distancing-in-nyc-parks-50f9286a65b6).
 
 ## Next Steps
 
-For further development of this project I would look into possible trends emerging from grouping the data by the different agencies Ambassadors come from, and take a closer look at smaller parks's individual data
+For further development of this project I would look into possible trends emerging from grouping the data by the different agencies Ambassadors come from, and take a closer look at smaller parks's individual data. It may also be interesting to try to create a model to predict whether a group listened or not and then extract feature importance. 
 
 ## Repository Structure
 
